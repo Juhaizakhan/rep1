@@ -16,6 +16,10 @@ This section defines a "replace_function" that replaces occurrences of a word (c
 ### 3 - Grading
 This part defines a "get_letter_grade" function that assigns a letter grade based on a numerical score. User input is taken to get a class score, and the corresponding letter grade is displayed.
 
+### Video Explanation link
+
+[Link]
+
 ## How to Use
 
 1. Clone the Repository:
