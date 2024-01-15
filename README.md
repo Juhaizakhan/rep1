@@ -18,7 +18,7 @@ This part defines a "get_letter_grade" function that assigns a letter grade base
 
 ## Video Explanation link
 
-[Link]
+[https://drive.google.com/file/d/11ygYJnxEsurNBzAxCnu_p6091rmJvZYT/view?usp=sharing]
 
 ## How to Use
 
