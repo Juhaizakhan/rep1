@@ -25,10 +25,11 @@ This part defines a "get_letter_grade" function that assigns a letter grade base
 1. Clone the Repository:
    
    git clone https://github.com/juhaizakhan/rep1.git
+   
    cd rep1
    
 
-2. Run the Script:
+3. Run the Script:
      python ICP_1_Spring24.py
      
 
